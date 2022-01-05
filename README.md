@@ -29,6 +29,8 @@ Free Russian-Persian Kindle Dictionary. This is a sub-project of: [English-Persi
 ■ به دلیل آمیخته بودن کلمات و جملات فارسی و انگلیسی در قسمت ترجمه، این لغت نامه از نوشتار راست-به-چپ پشتیبانی نمیکند.
 
 ## سایر لغت نامه ها
-دیکشنری انگلیسی به فارسی برای کتاب خوان های آمازون کیندل https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary
+[English-Persian Kindle Custom Dictionary دیکشنری انگلیسی به فارسی برای کتاب خوان های آمازون کیندل](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary)
 
-دیکشنری سوئدی به فارسی کیندل https://github.com/hossein1376/Swedish-Persian-Kindle-Dictionary/blob/main/README.md
+[Swedish-Persian Kindle Dictionary دیکشنری سوئدی به فارسی کیندل](https://github.com/hossein1376/Swedish-Persian-Kindle-Dictionary)
+
+[Spanish-Persian Kindle Dictionary دیکشنری اسپانیایی به فارسی کیندل](https://github.com/hossein1376/Spanish-Persian-Kindle-Dictionary)
