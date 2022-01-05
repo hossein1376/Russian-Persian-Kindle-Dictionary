@@ -34,3 +34,5 @@ Free Russian-Persian Kindle Dictionary. This is a sub-project of: [English-Persi
 [Swedish-Persian Kindle Dictionary دیکشنری سوئدی به فارسی کیندل](https://github.com/hossein1376/Swedish-Persian-Kindle-Dictionary)
 
 [Spanish-Persian Kindle Dictionary دیکشنری اسپانیایی به فارسی کیندل](https://github.com/hossein1376/Spanish-Persian-Kindle-Dictionary)
+
+[Finnish-Persian Kindle Dictionary دیکشنری فنلاندی به فارسی کیندل](https://github.com/hossein1376/Finnish-Persian-Kindle-Dictionary)
