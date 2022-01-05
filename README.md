@@ -30,3 +30,5 @@ Free Russian-Persian Kindle Dictionary. This is a sub-project of: [English-Persi
 
 ## سایر لغت نامه ها
 دیکشنری انگلیسی به فارسی برای کتاب خوان های آمازون کیندل https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary
+
+دیکشنری سوئدی به فارسی کیندل https://github.com/hossein1376/Swedish-Persian-Kindle-Dictionary/blob/main/README.md
