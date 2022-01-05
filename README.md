@@ -1,5 +1,5 @@
 # Russian-Persian Kindle Dictionary
-Free Russian-Persian Kindle Dictionary. This is a sub-project of: [English-Persian Kindle Custom Dictionary](github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary)
+Free Russian-Persian Kindle Dictionary. This is a sub-project of: [English-Persian Kindle Custom Dictionary](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary)
 
 # دیکشنری روسی به فارسی کیندل
 **بیش از 35 هزار کلمه و اصطلاح**
