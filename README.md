@@ -20,7 +20,7 @@ Free Russian-Persian Kindle Dictionary. This is a sub-project of: [English-Persi
 ## نکات مهم:
 ■ برای ساخت این لغت نامه، از دو دیکشنری MHM Russian-Persian Dictionary و Morteza Russian-farsi Dictionary استفاده شده است که هر دو رایگان بوده و بر روی اینترنت قابل دریافت هستند.
 
-■ استفاده و انتشار این لغت نامه کاملا **رایگان** است. این دیکشنری به عنوان بخشی از پروژه لغت نامه های فارسی کیندل ساخته شده است و من شخصا هیچ آشنایی با زبان روسی ندارم.
+■ استفاده و انتشار این لغت نامه کاملا **رایگان** است. این دیکشنری به عنوان بخشی از پروژه لغت نامه های فارسی کیندل ساخته شده است و من شخصا آشنایی با زبان روسی ندارم.
 در صورت وجود مشکل یا علاقه شما در جهت بهبود لغت نامه، فایل اکسل کد منبع لغت نامه قرار داده است. همپنین با مراجعه به پروژه اصلی، میتوانید راهنمایی های بیشتر نیز پیدا کنید.
 
 ■ لغت نامه کاملا از قابلیت inflection پشتیبانی میکند. تعداد *بسیار زیادی* (احتمالا در حدود یک میلیون) لغت به عنوان صرف به کلمات اصلی اضافه شده است. 
@@ -34,5 +34,7 @@ Free Russian-Persian Kindle Dictionary. This is a sub-project of: [English-Persi
 [Swedish-Persian Kindle Dictionary دیکشنری سوئدی به فارسی کیندل](https://github.com/hossein1376/Swedish-Persian-Kindle-Dictionary)
 
 [Spanish-Persian Kindle Dictionary دیکشنری اسپانیایی به فارسی کیندل](https://github.com/hossein1376/Spanish-Persian-Kindle-Dictionary)
+
+[French-Persian Kindle Dictionary دیکشنری فرانسوی به فارسی کیندل](https://github.com/hossein1376/French-Persian-Kindle-Dictionary)
 
 [Finnish-Persian Kindle Dictionary دیکشنری فنلاندی به فارسی کیندل](https://github.com/hossein1376/Finnish-Persian-Kindle-Dictionary)
